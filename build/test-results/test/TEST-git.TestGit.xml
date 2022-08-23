@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="git.TestGit" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-08-23T09:43:30" hostname="MacBook-Pro-Viktor.local" time="8.725">
+  <properties/>
+  <testcase name="langHeaderBook(Lang, List)[1]" classname="git.TestGit" time="7.499"/>
+  <testcase name="langHeaderBook(Lang, List)[2]" classname="git.TestGit" time="0.245"/>
+  <testcase name="numberHeaderBookGit(String, String)[1]" classname="git.TestGit" time="0.205"/>
+  <testcase name="numberHeaderBookGit(String, String)[2]" classname="git.TestGit" time="0.13"/>
+  <testcase name="numberHeaderBookGit(String, String)[3]" classname="git.TestGit" time="0.132"/>
+  <testcase name="headersBookGit(String)[1]" classname="git.TestGit" time="0.168"/>
+  <testcase name="headersBookGit(String)[2]" classname="git.TestGit" time="0.169"/>
+  <testcase name="headersBookGit(String)[3]" classname="git.TestGit" time="0.15"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 64485
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+авг. 23, 2022 12:43:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+авг. 23, 2022 12:43:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 104
+]]></system-err>
+</testsuite>
